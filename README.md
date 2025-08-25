@@ -44,7 +44,7 @@ Experiment 5 [Private Clause]/
     code.png
     job_script.png
     output.png
-Experiment 6 [Private Class 2]/
+Experiment 6 [Private Clause 2]/
     private_clause_demo.c
     code.png
     output.png
