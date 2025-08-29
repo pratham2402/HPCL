@@ -12,14 +12,15 @@ A collection of High Performance Computing (HPC) lab experiments, including code
 
 ## 🚀 Experiments Included
 
-- **Experiment 1:** Linux Commands
-- **Experiment 2:** Slurm Commands
-- **Experiment 3:** OpenMP Hello World
-- **Experiment 4:** Parallel Name
-- **Experiment 5:** Private Clause
-- **Experiment 6:** Private Clause 2
-- **Experiment 7:** Schedule
-- **Experiment 8:** Series Threads
+**Experiment 1:** Linux Commands
+**Experiment 2:** Slurm Commands
+**Experiment 3:** OpenMP Hello World
+**Experiment 4:** Parallel Name
+**Experiment 5:** Private Clause
+**Experiment 6:** Private Clause 2
+**Experiment 7:** Schedule
+**Experiment 8:** Series Threads
+**Parallelize:** Gradient Descent, Normal Equation, Mean & Std Deviation
 
 ---
 
@@ -57,6 +58,11 @@ Experiment 8 [Series Threads]/
     series_threads.c
     batch_script.png
     code.png
+    output.png
+Parallelize [Gradient Descent, Normal Equation, Mean & Std Deviation]/
+    parallelize.c
+    code1.png
+    code2.png
     output.png
 ```
 
