@@ -20,6 +20,12 @@ A collection of High Performance Computing (HPC) lab experiments, including code
  - **Experiment 6:** Private Clause 2
  - **Experiment 7:** Schedule
  - **Experiment 8:** Series Threads
+ - **Experiment 9:** MPI Hello World
+ - **Experiment 10:** MPI Send & Recv (Point-to-Point)
+ - **Experiment 11:** MPI Reduce Sum (Parallel Sum 1..N)
+ - **Experiment 12:** MPI Ring Sum (Token Passing)
+ - **Experiment 13:** CUDA Vector Addition
+ - **Experiment 14:** CUDA Matrix Multiplication
  - **Parallelize:** Gradient Descent, Normal Equation, Mean & Std Deviation
 
 ---
@@ -62,23 +68,23 @@ Experiment 8 [Series Threads]/
 Experiment 9 [MPI Hello World]/
     hello.c
     output.png
-Experiment 10/
+Experiment 10 [MPI Send & Recv]/
     code.c
     batch job.sh
     output.png
-Experiment 11/
+Experiment 11 [MPI Reduce Sum]/
     code.c
     batch_job.sh
     output.png
-Experiment 12/
+Experiment 12 [MPI Ring Sum]/
     code.c
     batch_job.sh
     output.png
-Experiment 13/
+Experiment 13 [CUDA Vector Addition]/
     code.cu
     batch_job.sh
     output.png
-Experiment 14/
+Experiment 14 [CUDA Matrix Multiplication]/
     code.cu
     batch_job.sh
     output.png
