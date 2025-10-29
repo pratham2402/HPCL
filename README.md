@@ -59,6 +59,29 @@ Experiment 8 [Series Threads]/
     batch_script.png
     code.png
     output.png
+Experiment 9 [MPI Hello World]/
+    hello.c
+    output.png
+Experiment 10/
+    code.c
+    batch job.sh
+    output.png
+Experiment 11/
+    code.c
+    batch_job.sh
+    output.png
+Experiment 12/
+    code.c
+    batch_job.sh
+    output.png
+Experiment 13/
+    code.cu
+    batch_job.sh
+    output.png
+Experiment 14/
+    code.cu
+    batch_job.sh
+    output.png
 Parallelize [Gradient Descent, Normal Equation, Mean & Std Deviation]/
     parallelize.c
     code1.png
